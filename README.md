@@ -1,5 +1,7 @@
 # Data analysis projects using Excel
 
+<img src="microsoft_excel_dashboards.jpeg" width="50%" height="70%">
+
 ## Overview
 
 The repository contains data analysis projects completed using Excel.
