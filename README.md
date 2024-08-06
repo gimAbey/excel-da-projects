@@ -1,4 +1,4 @@
-# Data analysis projects using Excel
+# Data analysis in Excel
 
 <img src="microsoft_excel_dashboards.jpeg" width="50%" height="70%">
 
